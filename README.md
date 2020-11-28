@@ -12,3 +12,4 @@ pycharm使用git
 
 项目笔记
 Django 表单增、删、改、查
+Django==3.1.3
